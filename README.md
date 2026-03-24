@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:Muhammad Umar
 💻 Frontend Developer | ⚛️ React | 🚀 Next.js | 📱 React Native<br>🎨 Pixel-perfect UI from Figma | 🔥 Firebase & Backend Integration<br>📲 Building scalable apps for Android & iOS with clean, modern code
 
 
